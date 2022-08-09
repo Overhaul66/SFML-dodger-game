@@ -7,5 +7,5 @@ A clone of andriod's play store offline game
 - coin system and counters
 - a hardcoded hitbox to detect coins
 - has magnet 
-- objects and chatecters in shapes no Sprite include
+- objects and characters in shapes no Sprite include
 - may contain some bugs
